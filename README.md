@@ -1,4 +1,4 @@
-##### 프로젝트명 : EGM project
+## EGM project
 ##### 진행기간 : 2023.01.06 ~ 
 ##### 개발자 : 남윤지 [YJ-NAM](https://github.com/YJ-NAM)
 
@@ -7,7 +7,7 @@
 ## 🤖: Description
 Easy & Good Management(EGM) <br/>
 쉽고 편리한 ERP 프로그램 제작 <br/>
-재고관리/매출 등 통계관리능 가능
+재고관리/매출관리 등 가능
 
 <br/>
 
@@ -25,6 +25,7 @@ Easy & Good Management(EGM) <br/>
 ## 🤖: API
 
 <br/>
+
 ## 🤖: Work
 
 
